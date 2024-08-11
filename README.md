@@ -2,6 +2,12 @@
 
 ### Skills
 
+### 本格的に取り組んでるもの
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,go,mysql" />
+</p>
+
+
 #### Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -17,4 +23,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+
 <p>全部触ったことあるくらいです。</p>
+
+
