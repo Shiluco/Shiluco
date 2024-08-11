@@ -9,21 +9,21 @@
 
 
 <details>
-  <summary>#### Web Development</summary>
+  <summary>Web Development</summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </p>
 </details>
 
 <details>
-  <summary>#### Programming Languages</summary>
+  <summary>Programming Languages</summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=java,python,c,go" />
   </p>
 </details>
 
 <details>
-  <summary>### Database</summary>
+  <summary>Database</summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </p>
