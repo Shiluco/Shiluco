@@ -8,22 +8,26 @@
 </p>
 
 
-#### Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<details>
+  <summary>#### Web Development</summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </p>
+</details>
 
-#### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,go" />
-</p>
+<details>
+  <summary>#### Programming Languages</summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,c,go" />
+  </p>
+</details>
 
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<details>
+  <summary>### Database</summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </p>
+</details>
 
-
-<p>全部触ったことあるくらいです。</p>
 
 
