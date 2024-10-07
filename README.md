@@ -2,7 +2,7 @@
 
 ### Skills
 
-### 本格的に取り組んでるもの
+### 取り組んでるもの
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,go,mysql" />
 </p>
