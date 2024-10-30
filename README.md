@@ -4,7 +4,7 @@
 
 ### 取り組んでるもの
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=next,react,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,next,go,mysql" />
 </p>
 
 
