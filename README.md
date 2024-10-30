@@ -2,7 +2,7 @@
 
 ### Skills
 
-### 取り組んでるもの
+### 技術スタック
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,go,mysql" />
 </p>
