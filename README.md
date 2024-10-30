@@ -4,14 +4,14 @@
 
 ### 取り組んでるもの
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=next,react,go,mysql" />
 </p>
 
 
 <details>
   <summary>Web Development</summary>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next" />
   </p>
 </details>
 
