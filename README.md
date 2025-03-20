@@ -4,7 +4,7 @@
 
 ### 技術スタック
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,go,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,next,flutter,go,cakephp,mysql" />
 </p>
 
 
