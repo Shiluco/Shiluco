@@ -18,7 +18,7 @@
 <details>
   <summary>Programming Languages</summary>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,c,go" />
+    <img src="https://skillicons.dev/icons?i=java,python,c++,c,go" />
   </p>
 </details>
 
